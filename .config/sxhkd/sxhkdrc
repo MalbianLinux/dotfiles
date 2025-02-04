@@ -1,0 +1,39 @@
+# Kitty
+super + shift + return
+  kitty
+
+# Firefox
+super + f
+	firefox
+
+# Rofi
+super + shift + q
+	rofi -show drun -show-icons
+
+# Powermenu
+super + {Escape} 
+  $HOME/.local/bin/powermenu
+
+# Cutter
+super + c
+  cutter
+
+# Ghidra
+super + g
+  ghidra
+
+# Burpsuite
+super + b
+  burpsuite
+
+# File Manager
+super + e
+	thunar
+
+# Wireshark
+super + l
+  wireshark
+
+# Calendar
+super + t
+  gsimplecal
